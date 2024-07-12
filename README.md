@@ -17,10 +17,4 @@ The objective of this project is to automate the extraction of product data from
 - **Data Processing**: Pandas (for data manipulation)
 - **Visualization**: Matplotlib, Seaborn (optional, for data visualization)
 
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/hellomarket-beautifulsoup-scraping-project.git
-   cd hellomarket-beautifulsoup-scraping-project
 
